@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <iomanip> // Untuk menggunakan fungsi setprecision()
+#include <iomanip> // Untuk menggunakan fungsi setprecision
 
 using namespace std;
 
